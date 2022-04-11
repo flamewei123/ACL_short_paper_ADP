@@ -1,4 +1,5 @@
 # FL4NLP_short_paper_ADP
 
-We achieve DP-adam in fairseq for language modeling.
-Codes will be released if our paper is accepted.
+We implement DP-adam with fairseq for language modeling. 
+Code will be released soon.
+
